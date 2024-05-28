@@ -1,0 +1,1192 @@
+{
+  "data": {
+    "chain": {
+      "id": 4167,
+      "name": "Nure Al-Modina Hotel & Restaurant",
+      "main_vendor_id": 67091,
+      "url_key": "nure-al-modina-hotel-and-restaurant",
+      "code": "ce8xo"
+    },
+    "city": {
+      "id": 11359,
+      "name": "Dhaka",
+      "url_key": "dhaka"
+    },
+    "customer_phone": "+8801903561051",
+    "id": 67091,
+    "code": "mbgt",
+    "accepts_instructions": true,
+    "address": "Near New jawbon Cafe, Harun Molla Sorok, Harunabad, Near Molla market,\nSection 12,",
+    "address_line2": "",
+    "budget": 1,
+    "deals": [
+      {
+        "id": 7964577291482912,
+        "code": "pickup",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 50,
+        "maximum_discount_amount": 0,
+        "value": 15,
+        "title": "",
+        "description": "pickup : 15% off",
+        "start_date": "2024-05-16T00:00:00+06:00",
+        "end_date": "2024-06-07T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": false,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk50",
+          "Applicable for Pick-Up.",
+          "Valid only for the selected vendors.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 0,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "171558361500",
+        "is_bogo": false
+      },
+      {
+        "id": 7965022694876124,
+        "code": "sebl100",
+        "offer_type": "amount",
+        "type": "voucher",
+        "voucher_type": "amount",
+        "minimum_order_value": 399,
+        "maximum_discount_amount": 0,
+        "value": 100,
+        "title": "",
+        "description": "SEBL100: Applicable for Southeast Bank PLC",
+        "start_date": "2024-05-14T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": false,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk399",
+          "Applicable for Delivery, Pick-Up.",
+          "Valid for payment with Credit card",
+          "Valid only on selected cards.",
+          "Limited to 4 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 4,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7918579980711467,
+        "code": "pick100",
+        "offer_type": "amount",
+        "type": "voucher",
+        "voucher_type": "amount",
+        "minimum_order_value": 799,
+        "maximum_discount_amount": 0,
+        "value": 100,
+        "title": "",
+        "description": "PICK100 : 100 off on 799",
+        "start_date": "2024-05-01T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": false,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk799",
+          "Applicable for Pick-Up.",
+          "Limited to 2 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 2,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "171438081000",
+        "is_bogo": false
+      }
+    ],
+    "constraints": [],
+    "cuisines": [
+      {
+        "id": 123,
+        "name": "Rice Dishes",
+        "url_key": "rice-dishes",
+        "main": true
+      },
+      {
+        "id": 243,
+        "name": "Curry",
+        "url_key": "curry",
+        "main": false
+      }
+    ],
+    "delivery_duration_range": {
+      "lower_limit_in_minutes": 10,
+      "upper_limit_in_minutes": 25
+    },
+    "delivery_fee_source": "dps",
+    "description": "",
+    "discounts": [],
+    "distance": 0.16308954,
+    "dynamic_pricing": {
+      "service_fee": {
+        "total": 3,
+        "type": "percentage",
+        "setup_value": 1,
+        "min_value": 3,
+        "max_value": 9
+      },
+      "adjustments": {
+        "current_discount": 0,
+        "next_discount": {
+          "is_free": false,
+          "difference": 0,
+          "discount": 0,
+          "show_message": false,
+          "progress_percentage": 0
+        }
+      },
+      "fleet_utilization": 0,
+      "customer_tag": {
+        "variant": "",
+        "tag": null,
+        "subscription_id": null
+      },
+      "price_reason": null
+    },
+    "experiments": [
+      {
+        "experiment_id": "recommendation-products-elements",
+        "experiment_variation": "Control",
+        "is_participating": false
+      }
+    ],
+    "favorite": null,
+    "has_delivery_provider": true,
+    "hero_image": "https://images.deliveryhero.io/image/fd-bd/LH/mbgt-hero.jpg",
+    "hero_listing_image": "https://images.deliveryhero.io/image/fd-bd/LH/mbgt-listing.jpg",
+    "is_active": true,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": true,
+    "is_premium": false,
+    "is_preorder_enabled": false,
+    "is_promoted": false,
+    "is_test": false,
+    "is_vat_disabled": false,
+    "is_vat_included_in_product_price": true,
+    "is_vat_visible": false,
+    "is_vat_included": true,
+    "is_voucher_enabled": true,
+    "is_super_vendor": false,
+    "latitude": 23.8302338,
+    "location": "Mirpur",
+    "location_event": null,
+    "logo": "",
+    "longitude": 90.3636781,
+    "loyalty_percentage_amount": 0,
+    "loyalty_program_enabled": false,
+    "minimum_delivery_fee": 0,
+    "minimum_delivery_time": 25,
+    "minimum_order_amount": 50,
+    "minimum_pickup_time": 10,
+    "name": "Nure Al-Modina Hotel & Restaurant",
+    "original_delivery_fee": 0,
+    "payment_types": [],
+    "post_code": "1216",
+    "primary_cuisine_id": 123,
+    "rating": 3.2,
+    "topic_ratings": null,
+    "review_number": 192,
+    "review_with_comment_number": 0,
+    "schedules": [
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "pickup",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "pickup",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "pickup",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "pickup",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "pickup",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "pickup",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "pickup",
+        "opening_time": "07:00",
+        "closing_time": "23:59"
+      }
+    ],
+    "service_fee": 0,
+    "service_fee_percentage_amount": 0,
+    "short_name": "Nure Al-Modina Hotel & Restaurant",
+    "small_order_fee": null,
+    "special_days": [],
+    "tag": "",
+    "tags": null,
+    "trade_register_number": "0",
+    "url_key": "nure-al-modina-hotel-and-restaurant",
+    "characteristics": {
+      "cuisines": [
+        {
+          "id": 123,
+          "name": "Rice Dishes",
+          "url_key": "rice-dishes",
+          "main": true
+        },
+        {
+          "id": 243,
+          "name": "Curry",
+          "url_key": "curry",
+          "main": false
+        }
+      ],
+      "food_characteristics": [],
+      "primary_cuisine": {
+        "id": 123,
+        "name": "Rice Dishes",
+        "url_key": "rice-dishes",
+        "main": true
+      }
+    },
+    "vendor_legal_information": {
+      "legal_name": "Nure Al-Modina Hotel & Restaurant",
+      "address_line_1": "Near New jawbon Cafe, Harun Molla Sorok, Harunabad, Near Molla market,\nSection 12,",
+      "trade_register_number": "0"
+    },
+    "vertical": "restaurants",
+    "vertical_segment": "restaurants",
+    "vertical_parent": "Restaurant",
+    "web_path": "https://www.foodpanda.com.bd/restaurant/mbgt/nure-al-modina-hotel-and-restaurant",
+    "is_partner_cashback_disabled": false,
+    "vertical_type_ids": [
+      "restaurants"
+    ],
+    "other_vendors_in_chain": 0,
+    "menus": [
+      {
+        "ab_sorting_applied": false,
+        "id": 221641,
+        "code": "",
+        "name": "Breakfast Menu",
+        "description": "",
+        "type": "delivery",
+        "opening_time": "07:00:00",
+        "closing_time": "12:29:59",
+        "menu_categories": [
+          {
+            "id": 970790,
+            "code": "e5b50351-3528-4ac6-92c5-181305e0aeed",
+            "name": "Paratha & Naan",
+            "description": "",
+            "products": [
+              {
+                "id": 7538185,
+                "code": "a44e7210-e3ef-4f67-be90-5ce3eef4eaa9",
+                "name": "Plain Roti",
+                "description": "1 pc - Healthy & tasty flatbread prepared with wheat",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538185.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189195,
+                    "code": "cb79abc9-0da5-4c02-9273-803836b5ad05",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 25,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538179,
+                "code": "a3b19fe0-3a13-445a-85e3-ec94185159c2",
+                "name": "Plain Paratha",
+                "description": "1 pc - Traditional shallow-fried flatbread prepared with wheat",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538179.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189189,
+                    "code": "1d57f254-2722-4487-810f-f6bc04258393",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 25,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538261,
+                "code": "79117108-01ed-470d-9dbb-16604bea9209",
+                "name": "Shahi Paratha",
+                "description": "1 pc - Layered flatbread & fried to a soft & moist texture",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538261.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189272,
+                    "code": "04c0de75-d3ae-4f77-a71a-2c22077cc104",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 40,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538262,
+                "code": "a5ac9f77-3fed-4214-979e-a2d4e9800a2f",
+                "name": "Plain Naan",
+                "description": "1 pc - Flatbread prepared with white flour & yeast",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538262.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189273,
+                    "code": "caee9c26-6b81-4a32-bc86-9ac7c544e22d",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 30,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538264,
+                "code": "6ac97e5c-6b24-41f0-99fc-77d31d856a20",
+                "name": "Butter Naan",
+                "description": "1 pc - Soft flatbread prepared with, flour & yeast, tossed in butter",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538264.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189275,
+                    "code": "c0fcc91a-9af0-4585-8cc4-9d6d55564889",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 50,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538266,
+                "code": "218dcb12-3f82-4481-a3a3-9b138d6c58f6",
+                "name": "Garlic Naan",
+                "description": "1 pc - - Prepared with garlic, butter, flour & fried to a soft & moist texture",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538266.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189277,
+                    "code": "c8065439-905d-4f8e-bf38-446d2873a928",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 120,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538265,
+                "code": "2079d0a2-2e55-4e34-9658-417619433d1b",
+                "name": "Pudina Naan",
+                "description": "1 pc - Popular leavened bread prepared with mint, flour & yeast, cooked in a tandoor",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538265.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189276,
+                    "code": "7407c157-4001-4acc-a9bc-014e80ab247c",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 60,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          },
+          {
+            "id": 970785,
+            "code": "704c9763-6750-401a-b391-f179b889c2a4",
+            "name": "Curry",
+            "description": "",
+            "products": [
+              {
+                "id": 7538188,
+                "code": "394f4cd5-9e7e-4594-99f8-93795b09afaf",
+                "name": "Moong Dal",
+                "description": "1:1 - Protein-rich, split yellow lentils with a creamy texture, commonly used in Indian cuisine",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538188.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189198,
+                    "code": "332ab605-c850-4723-9c35-2a837f248ff4",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 45,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538196,
+                "code": "857548a4-8448-456c-bbcf-5258fdd075d6",
+                "name": "Booter Dal",
+                "description": "1:1 -  Prepared & spiced with lentils, coriander, chili powder & spices",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538196.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189207,
+                    "code": "6395e11a-df0e-4ce9-a659-d72305624d7a",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 45,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538189,
+                "code": "04b1b27f-2db9-4448-8680-e0bc838c4648",
+                "name": "Beef Nehari",
+                "description": "1:1 - Prepared with slow-cooked beef leg bone marrow in a spicy & aromatic stew",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538189.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189200,
+                    "code": "7a1d1d18-cd1b-4340-92b0-5042bd9b5f82",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 220,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 7538207,
+                "code": "d2e8d787-0455-4f47-b1eb-43d7989004f7",
+                "name": "Broiler Chicken Soup",
+                "description": "1:1 - Soup prepared with chunks of chicken, stock & some mild spices",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538207.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189218,
+                    "code": "843d2de7-e41b-412d-8497-df05a9a6d2fb",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 150,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 7538198,
+                "code": "3a6fa87a-2265-4954-be04-9016d5e520df",
+                "name": "Chicken Gila Kolija",
+                "description": "1:1 - Chicken liver gizzard cooked with species & gravy masala",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538198.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189209,
+                    "code": "9c099689-29df-430f-9134-929ddd4aa865",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 120,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          },
+          {
+            "id": 970786,
+            "code": "80514438-9037-4b35-841c-d5d285b8140b",
+            "name": "Rice",
+            "description": "",
+            "products": [
+              {
+                "id": 7538204,
+                "code": "1cccdf66-1250-4969-855b-811174112969",
+                "name": "Chicken Bhuna Khichuri",
+                "description": "1:1 - Served with 1 pc sonali chicken",
+                "master_category_id": 4,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538204.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189215,
+                    "code": "50823057-efd5-4d9e-b41d-2567a4a52a74",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 190,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 7538206,
+                "code": "cfb83431-cce6-4175-a3e3-25d702cba2c2",
+                "name": "Beef Bhuna Khichuri",
+                "description": "1:1 - Served with 7 pcs beef",
+                "master_category_id": 4,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538206.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189217,
+                    "code": "9ca7c355-cddc-4ab5-b9f5-c3935369f9da",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 220,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 7538209,
+                "code": "33dd9f13-1a0c-4140-83c0-8de79d546047",
+                "name": "Chicken Biryani",
+                "description": "1:1 - Spicy pakistani chicken biryani served with raita",
+                "master_category_id": 4,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538209.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189220,
+                    "code": "7cc0dd2d-665e-4ae1-861f-57a488823a99",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 200,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 7538211,
+                "code": "ccb21cc2-7f72-4d93-bfdf-efcedb168f5d",
+                "name": "Morog Polao",
+                "description": "1:1 - Tender chicken mixed with flavorful deshi masalas & aromatic rice",
+                "master_category_id": 4,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538211.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189222,
+                    "code": "83a948f5-3955-4745-8b72-d732ee4c2544",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 200,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 8378358,
+                "code": "fe2af136-05f0-49f0-b603-0b6b3a817acb",
+                "name": "Special Beef Tehari",
+                "description": "1:1",
+                "master_category_id": 4,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 9096196,
+                    "code": "f3ba2627-4039-4148-a1d0-3b3549cde1c3",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 180,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8378359,
+                "code": "fa486782-99e3-4393-9519-d43774573769",
+                "name": "Special Chicken Jhal Fry Khichuri",
+                "description": "1:1",
+                "master_category_id": 4,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 9096197,
+                    "code": "8a12981a-9879-4a73-8e3a-d0f1a420b1e0",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 180,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8378363,
+                "code": "269e3384-cc04-429a-a388-deac2cec069c",
+                "name": "Special Egg Khichuri",
+                "description": "1:1",
+                "master_category_id": 4,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 9096201,
+                    "code": "2b3d78b1-3754-4dd2-bbb0-37c4ff5f250f",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 120,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8378364,
+                "code": "6d8cf91e-8498-457a-8dab-356e4ada6e4a",
+                "name": "Special Egg Biryani",
+                "description": "1:1",
+                "master_category_id": 4,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 9096202,
+                    "code": "09318a54-22ed-46aa-9143-05fe2f77d40b",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 120,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          },
+          {
+            "id": 970784,
+            "code": "2be1dac3-80c0-4686-a587-9df01300d73e",
+            "name": "Sides",
+            "description": "",
+            "products": [
+              {
+                "id": 7538191,
+                "code": "71378a4f-d40b-455c-8849-67836a5e8123",
+                "name": "Mixed Vegetable",
+                "description": "1:1 - Prepared with various seasonal vegetable cooked together with spices",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/7538191.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8189202,
+                    "code": "741a1c19-3cdd-4e37-a3be-236d3db14e03",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 45,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          }
+        ],
+        "toppings": {},
+        "tags": {
+          "popular": {
+            "name": "popular",
+            "translation_keys": {
+              "description": "NEXTGEN_POPULAR_CATEGORY_DESCRIPTION",
+              "title": "NEXTGEN_POPULAR_DISH_TAG"
+            },
+            "elements": [
+              "label",
+              "category"
+            ],
+            "metadata": {
+              "sorting": [
+                7538204,
+                7538189,
+                7538206,
+                7538198,
+                7538207,
+                7538211
+              ]
+            }
+          }
+        },
+        "default_sold_out_options": [
+          {
+            "default": true,
+            "option": "REFUND",
+            "text": "NEXTGEN_SoldOutOptions_Refund"
+          },
+          {
+            "default": false,
+            "option": "CALL_CUSTOMER",
+            "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "is_delivery_available": true,
+      "is_pickup_available": true,
+      "available_in": null,
+      "has_discount": false,
+      "timezone": "Asia/Dhaka",
+      "events": [],
+      "close_reasons": [],
+      "is_flood_feature_closed": false
+    }
+  }
+}
