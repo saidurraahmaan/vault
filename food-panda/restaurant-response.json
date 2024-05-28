@@ -1,0 +1,2118 @@
+{
+  "status_code": 200,
+  "data": {
+    "chain": {
+      "id": 0,
+      "name": "",
+      "main_vendor_id": 0,
+      "url_key": "",
+      "code": ""
+    },
+    "city": {
+      "id": 11359,
+      "name": "Dhaka",
+      "url_key": "dhaka"
+    },
+    "customer_phone": "+8801822178939",
+    "id": 70231,
+    "code": "gu0p",
+    "accepts_instructions": true,
+    "address": "148/9/c-Shah ali Garden Road, Last corner of misco super Market, Beside DR Amanat khan Hospital",
+    "address_line2": "",
+    "budget": 2,
+    "deals": [
+      {
+        "id": 7959045227012933,
+        "code": "yumpanda",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 199,
+        "maximum_discount_amount": 100,
+        "value": 25,
+        "title": "",
+        "description": "YUMPANDA",
+        "start_date": "2024-05-01T00:00:00+06:00",
+        "end_date": "2024-06-30T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": true,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk199",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Limited to 1 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 1,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7932439030644210,
+        "code": "seblnc25",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 199,
+        "maximum_discount_amount": 100,
+        "value": 25,
+        "title": "",
+        "description": "SEBLNC25: 25% off up to Tk100",
+        "start_date": "2024-03-01T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": true,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk199",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Valid for payment with Credit card, Credit or Debit Card",
+          "Valid only on selected cards.",
+          "Limited to 1 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 1,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7932071125722377,
+        "code": "bankasia25",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 199,
+        "maximum_discount_amount": 100,
+        "value": 25,
+        "title": "",
+        "description": "BANKASIA25: 25% off up to Tk100",
+        "start_date": "2024-03-01T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": true,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk199",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Valid for payment with Credit card, Credit or Debit Card",
+          "Valid only on selected cards.",
+          "Limited to 1 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 1,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7932069853722376,
+        "code": "lbnc25",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 199,
+        "maximum_discount_amount": 100,
+        "value": 25,
+        "title": "",
+        "description": "LBNC25: 25% off up to Tk100",
+        "start_date": "2024-03-01T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": true,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk199",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Valid for payment with Credit card, Credit or Debit Card",
+          "Valid only on selected cards.",
+          "Limited to 1 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 1,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7932069385122373,
+        "code": "ucb25",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 199,
+        "maximum_discount_amount": 100,
+        "value": 25,
+        "title": "",
+        "description": "UCB25: 25% off up to Tk100",
+        "start_date": "2024-03-01T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": true,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk199",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Valid for payment with Credit card, Credit or Debit Card",
+          "Valid only on selected cards.",
+          "Limited to 1 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 1,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7932068711622369,
+        "code": "pbnc25",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 199,
+        "maximum_discount_amount": 100,
+        "value": 25,
+        "title": "",
+        "description": "PBNC25: 25% off up to Tk100",
+        "start_date": "2024-03-01T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": true,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk199",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Valid for payment with Credit card, Credit or Debit Card",
+          "Valid only on selected cards.",
+          "Limited to 1 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 1,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7932067939528774,
+        "code": "eblnc25",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 199,
+        "maximum_discount_amount": 100,
+        "value": 25,
+        "title": "",
+        "description": "EBLNC25 : 25% off up to Tk100",
+        "start_date": "2024-03-01T00:00:00+06:00",
+        "end_date": "2024-11-30T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": true,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk199",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Valid for payment with Credit card, Credit or Debit Card",
+          "Valid only on selected cards.",
+          "Limited to 1 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 1,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      },
+      {
+        "id": 7944256747667731,
+        "code": "homechef",
+        "offer_type": "percentage",
+        "type": "voucher",
+        "voucher_type": "percentage",
+        "minimum_order_value": 249,
+        "maximum_discount_amount": 100,
+        "value": 20,
+        "title": "",
+        "description": "HOMECHEF",
+        "start_date": "2024-05-01T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": false,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk249",
+          "Discount capped at Tk100",
+          "Applicable for Delivery.",
+          "Valid only for the selected vendors.",
+          "Limited to 5 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 5,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "171445721000",
+        "is_bogo": false
+      },
+      {
+        "id": 7965022694876124,
+        "code": "sebl100",
+        "offer_type": "amount",
+        "type": "voucher",
+        "voucher_type": "amount",
+        "minimum_order_value": 399,
+        "maximum_discount_amount": 0,
+        "value": 100,
+        "title": "",
+        "description": "SEBL100: Applicable for Southeast Bank PLC",
+        "start_date": "2024-05-14T00:00:00+06:00",
+        "end_date": "2024-05-31T23:59:00+06:00",
+        "is_pro": false,
+        "is_new_customer": false,
+        "seq_priority": 0,
+        "additional_info": {
+          "calculation": {
+            "baseOn": null
+          }
+        },
+        "tc": [
+          "Valid for a minimum order of Tk399",
+          "Applicable for Delivery, Pick-Up.",
+          "Valid for payment with Credit card",
+          "Valid only on selected cards.",
+          "Limited to 4 redemption per user.",
+          "For selected users only.",
+          "foodpanda may at any time in its sole and absolute discretion withdraw, amend and/or alter any applicable terms and conditions of the voucher, deals, or promotions without prior notice.",
+          "foodpanda may at any time in its sole and absolute discretion exclude, void, discontinue or disqualify you from any voucher, deal, or promotion without prior notice."
+        ],
+        "action": {
+          "type": "",
+          "name": "",
+          "description": ""
+        },
+        "source": "incentives",
+        "conditions": null,
+        "quantity": 4,
+        "used_quantity": 0,
+        "is_full_basket_applicable": true,
+        "construct_id": "",
+        "is_bogo": false
+      }
+    ],
+    "constraints": [],
+    "cuisines": [
+      {
+        "id": 85,
+        "name": "Burgers",
+        "url_key": "burgers",
+        "main": true
+      },
+      {
+        "id": 86,
+        "name": "Fast Food",
+        "url_key": "fast-food",
+        "main": false
+      },
+      {
+        "id": 147,
+        "name": "Beverage",
+        "url_key": "beverage",
+        "main": false
+      },
+      {
+        "id": 151,
+        "name": "Western",
+        "url_key": "western",
+        "main": false
+      }
+    ],
+    "delivery_duration_range": {
+      "lower_limit_in_minutes": 50,
+      "upper_limit_in_minutes": 70
+    },
+    "delivery_fee_source": "dps",
+    "description": "",
+    "discounts": [],
+    "distance": 3.6890166,
+    "dynamic_pricing": {
+      "service_fee": {
+        "total": 3,
+        "type": "percentage",
+        "setup_value": 1,
+        "min_value": 3,
+        "max_value": 9
+      },
+      "adjustments": {
+        "current_discount": 0,
+        "next_discount": {
+          "is_free": false,
+          "difference": 0,
+          "discount": 0,
+          "show_message": false,
+          "progress_percentage": 0
+        }
+      },
+      "fleet_utilization": 0,
+      "customer_tag": {
+        "variant": "",
+        "tag": null,
+        "subscription_id": null
+      },
+      "price_reason": null
+    },
+    "experiments": [
+      {
+        "experiment_id": "recommendation-products-elements",
+        "experiment_variation": "Control",
+        "is_participating": false
+      }
+    ],
+    "favorite": null,
+    "has_delivery_provider": true,
+    "hero_image": "https://images.deliveryhero.io/image/fd-bd/LH/gu0p-hero.jpg",
+    "hero_listing_image": "https://images.deliveryhero.io/image/fd-bd/LH/gu0p-listing.jpg",
+    "is_active": true,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_premium": false,
+    "is_preorder_enabled": false,
+    "is_promoted": false,
+    "is_test": false,
+    "is_vat_disabled": false,
+    "is_vat_included_in_product_price": true,
+    "is_vat_visible": false,
+    "is_vat_included": true,
+    "is_voucher_enabled": true,
+    "is_super_vendor": false,
+    "latitude": 23.7966944,
+    "location": "",
+    "location_event": null,
+    "logo": "",
+    "longitude": 90.3548611,
+    "loyalty_percentage_amount": 0,
+    "loyalty_program_enabled": false,
+    "minimum_delivery_fee": 0,
+    "minimum_delivery_time": 55,
+    "minimum_order_amount": 50,
+    "minimum_pickup_time": 20,
+    "name": "Burger Master",
+    "original_delivery_fee": 0,
+    "payment_types": [],
+    "post_code": "1216",
+    "primary_cuisine_id": 85,
+    "rating": 1.9,
+    "topic_ratings": null,
+    "review_number": 25,
+    "review_with_comment_number": 0,
+    "schedules": [
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "00:00",
+        "closing_time": "01:00"
+      },
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "pickup",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 1,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "02:00"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "pickup",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 2,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "pickup",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 3,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "03:00"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "pickup",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 4,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "02:00"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "02:00"
+      },
+      {
+        "id": 0,
+        "weekday": 5,
+        "opening_type": "pickup",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "pickup",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 6,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "02:00"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "pickup",
+        "opening_time": "08:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 0,
+        "weekday": 7,
+        "opening_type": "pickup",
+        "opening_time": "00:00",
+        "closing_time": "02:00"
+      }
+    ],
+    "service_fee": 0,
+    "service_fee_percentage_amount": 0,
+    "short_name": "Burger Master",
+    "small_order_fee": null,
+    "special_days": [],
+    "tag": "",
+    "tags": null,
+    "trade_register_number": "",
+    "url_key": "burger-master-gu0p",
+    "characteristics": {
+      "cuisines": [
+        {
+          "id": 85,
+          "name": "Burgers",
+          "url_key": "burgers",
+          "main": true
+        },
+        {
+          "id": 86,
+          "name": "Fast Food",
+          "url_key": "fast-food",
+          "main": false
+        },
+        {
+          "id": 147,
+          "name": "Beverage",
+          "url_key": "beverage",
+          "main": false
+        },
+        {
+          "id": 151,
+          "name": "Western",
+          "url_key": "western",
+          "main": false
+        }
+      ],
+      "food_characteristics": [],
+      "primary_cuisine": {
+        "id": 85,
+        "name": "Burgers",
+        "url_key": "burgers",
+        "main": true
+      }
+    },
+    "vendor_legal_information": {
+      "legal_name": "Burger Master",
+      "address_line_1": "148/9/c-Shah ali Garden Road, Last corner of misco super Market, Beside DR Amanat khan Hospital"
+    },
+    "vertical": "restaurants",
+    "vertical_segment": "home_based_kitchen",
+    "vertical_parent": "Restaurant",
+    "web_path": "https://www.foodpanda.com.bd/restaurant/gu0p/burger-master-gu0p",
+    "is_partner_cashback_disabled": false,
+    "vertical_type_ids": [
+      "home_based_kitchen"
+    ],
+    "other_vendors_in_chain": 0,
+    "menus": [
+      {
+        "ab_sorting_applied": false,
+        "id": 229627,
+        "code": "",
+        "name": "Delivery Menu",
+        "description": "",
+        "type": "delivery",
+        "opening_time": "00:00:00",
+        "closing_time": "23:59:00",
+        "menu_categories": [
+          {
+            "id": 2297979,
+            "code": "cff75001-4a68-4f41-ab2b-a54f180d2048",
+            "name": "Chicken Burger",
+            "description": "",
+            "products": [
+              {
+                "id": 8255156,
+                "code": "4e4b2d31-56b0-4ca3-b2a3-23856f492f0c",
+                "name": "Chicken Bacon Burger",
+                "description": "1 pc - Burger with chicken patty stacked with beef bacon, sauce & cheese",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255156.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967248,
+                    "code": "0e68f114-2495-43b7-9498-f920a60e4e10",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 240,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255140,
+                "code": "9c95dd52-5927-4c3b-97bb-7cdf41ed0d77",
+                "name": "Chicken Cheese Burger",
+                "description": "1 pc - Prepared with chicken patty, cheese & special sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255140.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967232,
+                    "code": "0cf8a75a-9c51-498b-bf5f-3af95e9f2f97",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 199,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 8255135,
+                "code": "13571e2e-fd3b-46eb-917a-8491b7815efd",
+                "name": "Chicken Burger",
+                "description": "1 pc - Toasted burger buns with a thick chicken patty, sauce & mayo",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255135.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967227,
+                    "code": "d492eef1-c321-4c06-8240-ec69e4ee4c81",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 170,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255158,
+                "code": "ee3aaff5-20ed-4a6c-928a-5aca3b65faac",
+                "name": "Chicken with Sausage Burger",
+                "description": "1 pc - Burger with chicken patty stacked with chicken sausage, sauce & cheese",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255158.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967250,
+                    "code": "bd4e70ab-caaf-4905-9298-cdc9eb0c5497",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 250,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255164,
+                "code": "fc49b8b2-8d44-452a-ba19-45323419c05f",
+                "name": "Chicken Cheese Blast",
+                "description": "1 pc - Prepared with double chicken patty, double cheese & mayo",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255164.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967256,
+                    "code": "8679d488-e1fb-4c48-af0e-657167dddd79",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 320,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255161,
+                "code": "19ff9f15-fa48-4ae6-acbd-2ff52cd5ac9e",
+                "name": "Double Decker Chicken Cheese Burger",
+                "description": "1 pc - Prepared with fresh bun, double chicken patty, cheese & honey mustard sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255161.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967253,
+                    "code": "0a8813c5-2cbd-45be-a386-9ef54228d36a",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 299,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255152,
+                "code": "2babe423-a006-4693-9709-53bb1e485900",
+                "name": "BBQ Chicken Cheese Burger",
+                "description": "1 pc - Perfectly seasoned chicken patty basted in barbecue sauce & cheese creating a juicy & flavorful burger",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255152.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967244,
+                    "code": "0b0f0e13-6e91-42e5-9ec5-00b87015e41b",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 230,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255166,
+                "code": "c393d137-d81e-4d7c-88c7-f3ddb8f42da3",
+                "name": "Chicken Signature Burger",
+                "description": "1 pc - Prepared with double chicken patty, double cheese, beef pepperoni & poached egg",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255166.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967258,
+                    "code": "cd3dcd17-a300-47db-8c1b-00ba25d4f178",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 370,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255287,
+                "code": "55c013f5-ffca-491f-ab12-7b7f08496665",
+                "name": "Chicken Half Fawder Burger",
+                "description": "1 pc - Prepared with a savory chicken patty seasoned to perfection, encased in a warm bun to create a delightful meal that satisfies your hunger",
+                "master_category_id": 3,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967421,
+                    "code": "76a9ed33-24b2-480f-ab1b-daf9b80a4187",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 179,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255169,
+                "code": "06108bd6-ba71-4c08-b6f1-dfa04fd6c069",
+                "name": "Giganto Chicken Burger",
+                "description": "1 pc - Prepared with 200 gm chicken patty, cheese, beef bacon & bbq sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255169.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967261,
+                    "code": "67cc8b83-6bb1-4fb9-a27a-6780f1805ced",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 450,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8279093,
+                "code": "fec5984a-fe23-4826-a403-78930d7f1b96",
+                "name": "Double Decker Crispy Chicken Cheese Burger",
+                "description": "1 pc - Prepared with fresh bun, double chicken Fry patty, cheese & honey mustard sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8279093.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8993098,
+                    "code": "c8ead398-21e4-4a93-b4d1-4ffe72d0069f",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 350,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8279092,
+                "code": "8537e1ff-9838-4b98-97b6-ff28a4f09094",
+                "name": "Crispy Chicken With Cheese Burger",
+                "description": "Pc - Prepared with chicken fry patty, cheese & special sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8279092.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8993097,
+                    "code": "90c04cf5-7739-4c41-b4c7-a379d861f0bf",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 229,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8279094,
+                "code": "d8602ffa-ed1f-4381-8b77-1e09e777f369",
+                "name": "BBQ Crispy Chicken Cheese Burger",
+                "description": "1 pc - Perfectly seasoned chicken fry patty basted in barbecue sauce & cheese creating a juicy & flavorful burger",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8279094.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8993099,
+                    "code": "c91b3f5f-3ec1-4f28-a17d-126908d41b89",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 260,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8279104,
+                "code": "1366cb0e-3139-4ff5-be3d-40d1982077c6",
+                "name": "Crispy Chicken Burger",
+                "description": "1 pc - Toasted burger buns with a thick chicken fry patty, sauce & mayo",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8279104.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8993109,
+                    "code": "8b92b23e-a491-48b2-aa57-af0fda4d3a78",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 199,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          },
+          {
+            "id": 2297978,
+            "code": "514fc097-44ee-4087-9d3d-1e77347c4ad4",
+            "name": "Beef Burger",
+            "description": "",
+            "products": [
+              {
+                "id": 8255134,
+                "code": "d3295e01-cd6e-4f5c-93f1-b18770fe73ce",
+                "name": "Beef Burger",
+                "description": "1 pc - Toasted burger buns with a thick beef patty, sauce & mayo",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255134.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967226,
+                    "code": "12dd4de6-7af6-4ede-ac3a-5ae23cfe7ee0",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 185,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255157,
+                "code": "7832458b-de59-4ed4-a696-c14a2308347e",
+                "name": "Beef with Sausage Burger",
+                "description": "1 pc - Burger with beef patty stacked with chicken sausage, sauce & cheese",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255157.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967249,
+                    "code": "234a97ea-c6f8-4310-b09d-982d2cda948b",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 265,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255151,
+                "code": "b487af58-ac8b-47a4-9cc8-e42852c0b0e4",
+                "name": "BBQ Beef Cheese Burger",
+                "description": "1 pc - Perfectly seasoned beef patty basted in barbecue sauce & cheese creating a juicy & flavorful burger",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255151.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967243,
+                    "code": "66f95900-3fa4-47a2-971d-1e97948e1ae3",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 245,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255165,
+                "code": "de2916a0-7691-492d-a744-fe72c50fc87c",
+                "name": "Beef Signature Burger",
+                "description": "1 pc - Prepared with double beef patty, double cheese, beef pepperoni & poached egg",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255165.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967257,
+                    "code": "0c36965c-d1d5-422b-b8f2-31de66612347",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 385,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255155,
+                "code": "3e9f8986-7f6d-4e91-8f62-7f4c04ed33c8",
+                "name": "Beef Bacon Burger",
+                "description": "1 pc - Burger with beef patty stacked with beef bacon, sauce & cheese",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255155.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967247,
+                    "code": "cd9a0c0e-fff2-43d2-954d-94f7ff14f033",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 255,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255162,
+                "code": "8815c7fc-7731-4f04-bb61-105a1bdbe091",
+                "name": "Double Decker Beef Cheese Burger",
+                "description": "1 pc - Prepared with fresh bun, double beef patty, cheese & honey mustard sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255162.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967254,
+                    "code": "9135d990-f205-4f2c-a93d-a5d0b16b5a4c",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 315,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255139,
+                "code": "ac978e05-ab78-465a-9643-c9bcbcab69ee",
+                "name": "Beef Cheese Burger",
+                "description": "1 pc - Prepared with beef patty, cheese & special sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255139.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967231,
+                    "code": "8eeb91be-d6ca-4481-b5e9-eaa7849a1b51",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 215,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255163,
+                "code": "73784c91-f681-42f3-bdf2-4dc7fb074653",
+                "name": "Beef Cheese Blast Burger",
+                "description": "1 pc - Prepared with double beef patty, double cheese & mayo",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255163.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967255,
+                    "code": "11dc04b6-8c4c-4999-9a1f-df81d77c72f9",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 335,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255167,
+                "code": "c6feca4b-85fd-46e1-a9e5-360efbd90d46",
+                "name": "Giganto Beef Burger",
+                "description": "1 pc - Prepared with 200 gm beef patty, cheese, beef bacon & bbq sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255167.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967259,
+                    "code": "42a26f62-ec83-4c27-9e88-c99f8cefd24c",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 465,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255292,
+                "code": "be8d6afd-1726-4a85-b3af-485bf6f964b5",
+                "name": "Beef Half Fawder Burger",
+                "description": "1 pc - Burger with a savory beef patty seasoned to perfection, encased in a warm bun to create a delightful meal that satisfies your cravings",
+                "master_category_id": 3,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967426,
+                    "code": "adc73389-cbaf-42d6-832b-7b93ade886a3",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 195,
+                    "topping_ids": [
+                      25038667
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038667,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          },
+          {
+            "id": 2297981,
+            "code": "9ed6ec54-b12e-49fe-aa6e-0a2d8f72ae7e",
+            "name": "Wings",
+            "description": "",
+            "products": [
+              {
+                "id": 8255183,
+                "code": "4ab98ffc-0de2-4daf-b454-0931ec9d27fa",
+                "name": "Pankha Wings",
+                "description": "6 pcs - Choose any 3 from 5 flavors",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255183.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967275,
+                    "code": "fb325fb4-115c-48c9-99d8-d15ec57887dc",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 180,
+                    "topping_ids": [
+                      25038666
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038666,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 8255224,
+                "code": "e455e9c4-4af0-41f9-898c-3bfcec668008",
+                "name": "Naga Wings",
+                "description": "6 pcs -  Spicy & crispy fried chicken wings coated in a flavorful blend of naga chili & sauce",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255224.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967317,
+                    "code": "f21cb110-89ac-4a88-9748-202780916071",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 175,
+                    "topping_ids": [
+                      25038666
+                    ],
+                    "topping_properties": [
+                      {
+                        "id": 25038666,
+                        "use_original_price": true
+                      }
+                    ],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "tags": [
+                  "popular"
+                ],
+                "is_bundle": false
+              },
+              {
+                "id": 8255225,
+                "code": "355d497a-d85f-4f14-9ffa-c0c166857cc6",
+                "name": "Peri Peri Wings",
+                "description": "6 pcs - Chicken wing marinated in a zesty peri peri sauce for a fiery, flavor-packed dining experience",
+                "master_category_id": 3,
+                "file_path": "https://images.deliveryhero.io/image/fd-bd/Products/8255225.jpg?width=%s",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967318,
+                    "code": "5d5e1467-4c06-4186-81c7-ce1480bf87b6",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 175,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          },
+          {
+            "id": 2297980,
+            "code": "363e111b-5576-4d31-8e0d-6ec53fe5ac3e",
+            "name": "Beverage",
+            "description": "",
+            "products": [
+              {
+                "id": 8255170,
+                "code": "7561292a-2d11-4bb1-89c9-70fcdcd3f27e",
+                "name": "Chocolate Coffee",
+                "description": "1:1 - Rich, indulgent coffee infused with luscious chocolate flavor",
+                "master_category_id": 11,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967262,
+                    "code": "cbd2462e-0c23-400a-ab3d-a19ce89c06c3",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 130,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255173,
+                "code": "dd5a7ffe-54d6-474b-91c9-21ab0041f028",
+                "name": "Regular Cold Coffee",
+                "description": "1:1 - Savor the chill with a refreshing sip of cold coffee prepared sugar & milk",
+                "master_category_id": 11,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967265,
+                    "code": "fcebe05f-c691-4b70-8525-d0c759ffaaea",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 120,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255175,
+                "code": "692cd9ea-b320-4b31-9ead-776885e202a5",
+                "name": "Oreo Shake",
+                "description": "1:1 - Perfect blend of crushed oreo cookies & smooth vanilla ice cream",
+                "master_category_id": 11,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967267,
+                    "code": "34cbe6fe-ea62-4c58-be73-729259c1dbb1",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 140,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              },
+              {
+                "id": 8255176,
+                "code": "d60ccdcc-68d1-44cd-8d60-2aeaf03764d8",
+                "name": "Snickers Shake",
+                "description": "1:1 - Indulgent blend of snickers chocolate bars & creamy milk, creating a luscious, satisfying shake with delightful crunch",
+                "master_category_id": 11,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967268,
+                    "code": "855a1557-24bb-4703-be02-47841a26b2fa",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "price": 140,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          },
+          {
+            "id": 2297982,
+            "code": "76a58b25-7d1d-497e-9340-76d4be68a562",
+            "name": "Sides",
+            "description": "",
+            "products": [
+              {
+                "id": 8255221,
+                "code": "49dee3d7-0b37-4855-9602-df38cfd7a6a8",
+                "name": "Regular French Fries",
+                "description": "Finely cut crispy fries fried till perfection",
+                "master_category_id": 3,
+                "file_path": "",
+                "is_sold_out": false,
+                "is_express_item": true,
+                "additives": [],
+                "is_alcoholic_item": false,
+                "sold_out_options": null,
+                "product_variations": [
+                  {
+                    "id": 8967313,
+                    "code": "22954fe1-9ffc-4052-b332-3d87a7c10c1f",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "name": "Regular",
+                    "price": 60,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  },
+                  {
+                    "id": 8967316,
+                    "code": "72aca083-327e-451b-b54d-42eb6ccb95d6",
+                    "remote_code": "",
+                    "container_price": 0,
+                    "name": "Large ",
+                    "price": 100,
+                    "topping_ids": [],
+                    "topping_properties": [],
+                    "unit_pricing": null,
+                    "total_price": 0
+                  }
+                ],
+                "half_type": "",
+                "is_bundle": false
+              }
+            ],
+            "is_popular_category": false
+          }
+        ],
+        "toppings": {
+          "25038666": {
+            "id": 25038666,
+            "name": "Flavor of Pankha Wings",
+            "description": "",
+            "quantity_minimum": 3,
+            "quantity_maximum": 3,
+            "options": [
+              {
+                "id": 25325647,
+                "product_id": 8255192,
+                "name": "Achari",
+                "description": "",
+                "price": 0,
+                "remote_code": ""
+              },
+              {
+                "id": 25325648,
+                "product_id": 8255190,
+                "name": "Sweet N' Naga",
+                "description": "",
+                "price": 0,
+                "remote_code": ""
+              },
+              {
+                "id": 25325649,
+                "product_id": 8255188,
+                "name": "BBQ",
+                "description": "",
+                "price": 0,
+                "remote_code": ""
+              },
+              {
+                "id": 25325650,
+                "product_id": 8255186,
+                "name": "Honey",
+                "description": "",
+                "price": 0,
+                "remote_code": ""
+              },
+              {
+                "id": 25325651,
+                "product_id": 8255189,
+                "name": "Sriracha",
+                "description": "",
+                "price": 0,
+                "remote_code": ""
+              }
+            ],
+            "type": "choice-group"
+          },
+          "25038667": {
+            "id": 25038667,
+            "name": "Add Ons for Burger",
+            "description": "",
+            "quantity_minimum": 0,
+            "quantity_maximum": 8,
+            "options": [
+              {
+                "id": 25325653,
+                "product_id": 8255177,
+                "name": "Cheese",
+                "description": "",
+                "price": 25,
+                "remote_code": ""
+              },
+              {
+                "id": 25325654,
+                "product_id": 8255178,
+                "name": "BBQ Sauce",
+                "description": "",
+                "price": 25,
+                "remote_code": ""
+              },
+              {
+                "id": 25325655,
+                "product_id": 8255179,
+                "name": "Chicken Sausage",
+                "description": "",
+                "price": 30,
+                "remote_code": ""
+              },
+              {
+                "id": 25325656,
+                "product_id": 8255180,
+                "name": "Beef Bacon",
+                "description": "",
+                "price": 80,
+                "remote_code": ""
+              },
+              {
+                "id": 25325657,
+                "product_id": 8255181,
+                "name": "Egg",
+                "description": "",
+                "price": 25,
+                "remote_code": ""
+              },
+              {
+                "id": 25325658,
+                "product_id": 8255182,
+                "name": "Honey BBQ Sauce",
+                "description": "",
+                "price": 25,
+                "remote_code": ""
+              },
+              {
+                "id": 25328511,
+                "product_id": 8284779,
+                "name": "Beef Patty",
+                "description": "",
+                "price": 85,
+                "remote_code": ""
+              },
+              {
+                "id": 25328512,
+                "product_id": 8284780,
+                "name": "Chicken Patty",
+                "description": "",
+                "price": 70,
+                "remote_code": ""
+              }
+            ],
+            "type": "choice-group"
+          }
+        },
+        "tags": {
+          "popular": {
+            "name": "popular",
+            "translation_keys": {
+              "description": "NEXTGEN_POPULAR_CATEGORY_DESCRIPTION",
+              "title": "NEXTGEN_POPULAR_DISH_TAG"
+            },
+            "elements": [
+              "label",
+              "category"
+            ],
+            "metadata": {
+              "sorting": [
+                8255224,
+                8279104,
+                8255140,
+                8255183
+              ]
+            }
+          }
+        },
+        "default_sold_out_options": [
+          {
+            "default": true,
+            "option": "REFUND",
+            "text": "NEXTGEN_SoldOutOptions_Refund"
+          },
+          {
+            "default": false,
+            "option": "CALL_CUSTOMER",
+            "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "is_delivery_available": true,
+      "is_pickup_available": false,
+      "available_in": null,
+      "has_discount": false,
+      "timezone": "Asia/Dhaka",
+      "events": [],
+      "close_reasons": [],
+      "is_flood_feature_closed": false
+    }
+  }
+}
